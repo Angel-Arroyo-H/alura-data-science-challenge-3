@@ -32,7 +32,7 @@ A empresa quer antecipar o problema da evasão, e cabe a nós construir um pipel
 # Sobre a Resolução do Desafio:
 
 
-# Instruções Para Executaro o Notebook:
+# Instruções Para Executar o Notebook:
 - Fazer download do [notebook]().
 - Abrir o notebook no [Colab]().
 - Fazer download dos [dados_tratados]().
