@@ -33,7 +33,7 @@ A empresa quer antecipar o problema da evasão, e cabe a nós construir um pipel
 
 
 # Instruções Para Executar o Notebook:
-- Fazer download do [notebook]().
+- Fazer download do [notebook](Alura_DataScience_Challenge3.ipynb).
 - Abrir o notebook no [Colab]().
 - Fazer download dos [dados_tratados]().
 - Subir os dados tratados para a pasta de arquivos dentro da sesão do Colab onde foi aberto o notebook.
