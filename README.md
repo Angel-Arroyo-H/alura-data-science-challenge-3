@@ -30,12 +30,15 @@ A empresa quer antecipar o problema da evasão, e cabe a nós construir um pipel
 ✅ Criar uma conclusão estratégica apontando os principais fatores que influenciam a evasão.
 
 # Sobre a Resolução do Desafio:
-
+- Desenvolvimos o desafio com Python na plataforma [Google Colaboratory](https://colab.research.google.com/).
+- O notebook com o desenvolvimento pode ser acessado [aqui](Alura_DataScience_Challenge3.ipynb).
+- **IMPORTANTE**:
+  - Alguns gráficos foram feitos usando Plotly Express. Pelo formato, esses gráficos não conseguem ser exibidos no notebook via Github. No entanto, o Notebook pode ser executado no Colab para ver esses gráficos.
+  - O notebook pode demorar alguns minutos em ser executado.   
+- Os requerimentos estão listados do arquivo [requirements.txt](requirements.txt).
 
 # Instruções Para Executar o Notebook:
 - Fazer download do [notebook](Alura_DataScience_Challenge3.ipynb).
-- Abrir o notebook no [Colab]().
-- Fazer download dos [dados_tratados]().
-- Subir os dados tratados para a pasta de arquivos dentro da sesão do Colab onde foi aberto o notebook.
-- Clicar na opção "Executar Todas". 
+- Abrir o notebook no [Colab](https://colab.research.google.com/).
+- Clicar na opção "Executar Todas".
 
