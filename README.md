@@ -10,9 +10,9 @@ O desafio corresponde à Parte 2 do projeto **Churn de Clientes na Telecom X**, 
 
 A descrição e resolução da primeira parte do desafio, **Análise Exploratória da Evasão de Clientes na Telecom X**, podem ser encontradas [aqui](https://github.com/Angel-Arroyo-H/alura-data-science-challenge-2/tree/main).
 
-Neste seguindo desafio trabalharemos partindo dos **dados tratados** na primeira parte do desafio.
+Neste segundo desafio, usamos os **dados tratados** na primeira parte do desafio.
 
-A nossa missão é desenvolver **modelos preditivos** capazes de prever quais clientes têm maior chance de cancelar os serviços da Telecom X.  
+A nossa missão é desenvolver **modelos preditivos** capazes de prever quais clientes têm maior chance de cancelar os serviços da Telecom X. 
 
 A empresa quer antecipar o problema da evasão, e cabe a nós construir um pipeline robusto para essa etapa inicial de modelagem.
 
